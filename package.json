@@ -1,0 +1,30 @@
+{
+  "name": "atom-npm-outdated",
+  "main": "./lib/atom-npm-outdated",
+  "version": "0.1.0",
+  "description": "Package Atom to keep your package.json up-to-date",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "author": {
+    "name" : "Kilian Ito",
+    "email" : "kilian.ito@gmail.com"
+  },
+  "activationCommands": {
+    "atom-workspace": "atom-npm-outdated:toggle"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kilian-ito/atom-npm-outdated.git"
+  },
+  "keywords": [
+    "atom",
+    "npm"
+  ],
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/kilian-ito/atom-npm-outdated/issues"
+  },
+  "license": "MIT"
+}
