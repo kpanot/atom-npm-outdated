@@ -3,6 +3,9 @@
   "main": "./lib/index",
   "version": "0.2.1",
   "description": "Package Atom to keep your package.json up-to-date",
+  "scripts": {
+    "test": "eslint **/*.js"
+  },
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
