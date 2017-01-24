@@ -1,3 +1,6 @@
+## 0.4.2 - Message clarification
+*   Moved stable version information in Trace message
+
 ## 0.4.1 - Loading time
 *   Reduce added loading time to Atom (from 1000ms+ to >90ms)
 
