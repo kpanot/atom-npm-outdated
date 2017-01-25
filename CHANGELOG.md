@@ -1,3 +1,9 @@
+## 0.5.0 - On fly check and better reporting
+*   Allow the user to configure the prerelease level to check
+*   Optimization of the execution speed
+*   Stop reporting if the `package.json` file is invalid
+*   Handle not found package exception
+
 ## 0.4.2 - Message clarification
 *   Moved stable version information in Trace message
 *   Increased the reactivity by storing the list of available versions
