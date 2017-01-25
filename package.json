@@ -27,9 +27,11 @@
   },
   "keywords": [
     "atom",
-    "npm",
     "linter",
-    "npm"
+    "npm",
+    "outdated",
+    "package.json",
+    "version"
   ],
   "private": false,
   "bugs": {
