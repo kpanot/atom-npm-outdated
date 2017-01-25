@@ -28,7 +28,8 @@
   "keywords": [
     "atom",
     "npm",
-    "linter"
+    "linter",
+    "npm"
   ],
   "private": false,
   "bugs": {
