@@ -1,3 +1,7 @@
+## 0.5.3 - Npmrc reading
+*   Based the `.npmrc` file on project base path
+*   Fix registry decoding
+
 ## 0.5.0 - On fly check and better reporting
 *   Allow the user to configure the prerelease level to check
 *   Optimization of the execution speed
