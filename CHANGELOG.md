@@ -1,3 +1,6 @@
+## 0.5.4 - Not found reportin fix
+*   Fix the way to determine if the package is not found
+
 ## 0.5.3 - Npmrc reading
 *   Based the `.npmrc` file on project base path
 *   Fix registry decoding
