@@ -1,3 +1,6 @@
+## 0.6.0 - Package version utocompletion
+*   Extract linter code from the actual worker
+
 ## 0.5.4 - Not found reportin fix
 *   Fix the way to determine if the package is not found
 
