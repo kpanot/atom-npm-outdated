@@ -27,6 +27,7 @@
   },
   "keywords": [
     "atom",
+    "autocompletion",
     "linter",
     "npm",
     "outdated",
@@ -44,6 +45,11 @@
     "linter": {
       "versions": {
         "1.0.0": "provideLinter"
+      }
+    },
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
       }
     }
   },
