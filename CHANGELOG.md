@@ -1,8 +1,11 @@
-## 0.6.0 - Package version utocompletion
+## 0.6.1 - Restrain auto-completion handling pattern
+*   Fix auto-completion to be trigger on value only
+
+## 0.6.0 - Package version auto-completion
 *   Extract linter code from the actual worker
 *   Implement auto-completion for module version
 
-## 0.5.4 - Not found reportin fix
+## 0.5.4 - Not found reporting fix
 *   Fix the way to determine if the package is not found
 
 ## 0.5.3 - Npmrc reading
