@@ -1,3 +1,7 @@
+## 0.6.2 - Custom registry handling
+*   Fix custom registry handling
+*   Added auto-complete feature screenshot in readme
+
 ## 0.6.1 - Restrain auto-completion handling pattern
 *   Fix auto-completion to be trigger on value only
 

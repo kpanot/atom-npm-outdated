@@ -13,4 +13,8 @@ apm install atom-npm-outdated
 
 Atom Npm Outdated will display an Linter message to the package outdated of your package.json.
 
-![Example](https://raw.githubusercontent.com/kilian-ito/atom-npm-outdated/master/doc/example.png)
+![Example-check](https://raw.githubusercontent.com/kilian-ito/atom-npm-outdated/master/doc/example-check.png)
+
+And will auto-complete your packages version.
+
+![Example-complete](https://raw.githubusercontent.com/kilian-ito/atom-npm-outdated/master/doc/example-complete.png)
