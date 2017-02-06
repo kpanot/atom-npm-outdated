@@ -1,3 +1,6 @@
+## 0.6.3 - Fixed over suggestion
+*   Restrain the package version suggestions to the dependencies only
+
 ## 0.6.2 - Custom registry handling
 *   Fix custom registry handling
 *   Added auto-complete feature screenshot in readme
