@@ -1,3 +1,6 @@
+## 0.7.0 - Not enough restricted versions are now indicated
+*   Changed information message to display info only on not enough restricted package version
+
 ## 0.6.3 - Fixed over suggestion
 *   Restrain the package version suggestions to the dependencies only
 
