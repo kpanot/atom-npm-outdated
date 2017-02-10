@@ -1,3 +1,6 @@
+## 0.7.1 - Bugfix
+*   Fix issue in info display calculation
+
 ## 0.7.0 - Not enough restricted versions are now indicated
 *   Changed information message to display info only on not enough restricted package version
 
