@@ -1,5 +1,6 @@
-## 0.7.1 - Bugfix
+## 0.7.2 - Bugfix
 *   Fix issue in info display calculation
+*   Added caret option in the linter fix suggestion
 
 ## 0.7.0 - Not enough restricted versions are now indicated
 *   Changed information message to display info only on not enough restricted package version
