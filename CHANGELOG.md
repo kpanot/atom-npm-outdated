@@ -1,4 +1,5 @@
-## 0.7.2 - Bugfix
+## 0.7.3 - Bugfix
+*   Fix info message
 *   Fix issue in info display calculation
 *   Added caret option in the linter fix suggestion
 
