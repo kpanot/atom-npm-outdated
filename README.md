@@ -18,3 +18,17 @@ Atom Npm Outdated will display an Linter message to the package outdated of your
 And will auto-complete your packages version.
 
 ![Example-complete](https://raw.githubusercontent.com/kilian-ito/atom-npm-outdated/master/doc/example-complete.png)
+
+## Available options
+
+*   **Display information**:
+determine if you want to see an information message to the packages with the semver including the latest version but that also allow older version.
+
+*   **npmrc file**:
+specify the default path to the .npmrc file (if your project includes one)
+
+*   **level**:
+restrict warning message (and suggestion) to a specific prerelease version level
+
+*   **Use caret**:
+write the `^` character to prefix the auto-completed package version

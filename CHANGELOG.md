@@ -1,3 +1,7 @@
+## 0.7.4 - Small improvement
+*   Add available options list in the documentation
+*   Reduce the number of function requiring the Atom specific object
+
 ## 0.7.3 - Bugfix
 *   Fix info message
 *   Fix issue in info display calculation
