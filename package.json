@@ -21,6 +21,9 @@
     "node-fetch": "^1.6.3",
     "semver": "^5.3.0"
   },
+  "activationHooks": [
+    "language-json:grammar-used"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/kilian-ito/atom-npm-outdated.git"

@@ -1,3 +1,6 @@
+## 0.8.1 - Optimize loading time
+*   Activate the package on JSON grammar hook
+
 ## 0.8.0 - Hyperlink support
 *   Hyperlink can you send you to the npmjs website by clicking on the package name
 *   Fix issue on auto complete feature
