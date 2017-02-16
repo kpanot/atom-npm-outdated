@@ -51,6 +51,11 @@
       "versions": {
         "2.0.0": "getProvider"
       }
+    },
+    "hyperclick.provider": {
+      "versions": {
+        "0.0.0": "getProvider"
+      }
     }
   },
   "license": "MIT",

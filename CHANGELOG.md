@@ -1,3 +1,8 @@
+## 0.8.0 - Hyperlink support
+*   Hyperlink can you send you to the npmjs website by clicking on the package name
+*   Fix issue on auto complete feature
+*   Catch error on new invalid dependency typing check
+
 ## 0.7.4 - Small improvement
 *   Add available options list in the documentation
 *   Reduce the number of function requiring the Atom specific object
