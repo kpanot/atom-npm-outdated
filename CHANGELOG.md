@@ -1,3 +1,6 @@
+## 0.8.3 - Bug fix
+*   Fix hyperlink underline issue
+
 ## 0.8.1 - Optimize loading time
 *   Activate the package on JSON grammar hook
 
