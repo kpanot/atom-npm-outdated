@@ -1,5 +1,6 @@
-## 0.8.3 - Bug fix
+## 0.8.3 - Configuration of NPM Url
 *   Fix hyperlink underline issue
+*   Add a configuration for the NPM package information website
 
 ## 0.8.1 - Optimize loading time
 *   Activate the package on JSON grammar hook
