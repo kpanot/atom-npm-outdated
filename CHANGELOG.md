@@ -1,3 +1,6 @@
+## 0.8.4 - Implement ESLint recommended coding style
+*   Fix code according to ESlinter issue
+
 ## 0.8.3 - Configuration of NPM Url
 *   Fix hyperlink underline issue
 *   Add a configuration for the NPM package information website
