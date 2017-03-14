@@ -1,3 +1,5 @@
+## 0.9.0 - Implement Linter v2 message format
+
 ## 0.8.4 - Implement ESLint recommended coding style
 *   Fix code according to ESlinter issue
 

@@ -14,8 +14,8 @@
     "email": "kilian.ito@gmail.com"
   },
   "dependencies": {
-    "atom-linter": "^9.0.0",
-    "atom-package-deps": "^4.4.0",
+    "atom-linter": "^9.0.1",
+    "atom-package-deps": "^4.4.1",
     "escape-string-regexp": "^1.0.5",
     "lodash": "^4.17.4",
     "node-fetch": "^1.6.3",
@@ -47,7 +47,7 @@
   "providedServices": {
     "linter": {
       "versions": {
-        "1.0.0": "provideLinter"
+        "2.0.0": "provideLinter"
       }
     },
     "autocomplete.provider": {
@@ -63,6 +63,6 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^3.17.0"
+    "eslint": "^3.17.1"
   }
 }
