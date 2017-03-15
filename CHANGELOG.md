@@ -1,6 +1,7 @@
-## 0.9.0 - Implement Linter v2 message format
+## 0.9.2 - Implement Linter v2 message format
 *   Support for Linter Message v2
 *   Add title to the suggestions
+*   Fixed solution range issue
 
 ## 0.8.4 - Implement ESLint recommended coding style
 *   Fix code according to ESlinter issue
