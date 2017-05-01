@@ -1,3 +1,6 @@
+## 0.10.0 - dependency version prefix
+*   Generate the version prefix based on current version
+
 ## 0.9.2 - Implement Linter v2 message format
 *   Support for Linter Message v2
 *   Add title to the suggestions
