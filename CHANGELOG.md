@@ -1,3 +1,7 @@
+## 0.11.0 - Integration of NPM install
+*   The solutions proposed by the linter now includes an NPM install with the page update
+*   The Lodash dependency has been removed
+
 ## 0.10.0 - Dependency version prefix
 *   Generate the version prefix based on current version
 

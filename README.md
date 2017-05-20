@@ -29,6 +29,3 @@ specify the default path to the .npmrc file (if your project includes one)
 
 *   **level**:
 restrict warning message (and suggestion) to a specific prerelease version level
-
-*   **Use caret**:
-write the `^` character to prefix the auto-completed package version
