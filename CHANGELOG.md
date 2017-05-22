@@ -1,4 +1,6 @@
-## 0.11.1 - Bugfix: fallback node-fetch
+## 0.11.2 - Bugfix
+*   Fix node-fetch version
+*   Fix latest stable version in warning message
 
 ## 0.11.0 - Integration of NPM install
 *   The solutions proposed by the linter now includes an NPM install with the page update
