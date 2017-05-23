@@ -1,3 +1,5 @@
+## 0.11.3 - Add config to disable node_modules packages version checking
+
 ## 0.11.2 - Bugfix
 *   Fix node-fetch version
 *   Fix latest stable version in warning message

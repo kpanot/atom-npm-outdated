@@ -29,3 +29,6 @@ specify the default path to the .npmrc file (if your project includes one)
 
 *   **level**:
 restrict warning message (and suggestion) to a specific prerelease version level
+
+*   **Check installed package version**:
+The installed package will be inspected to verify that the version satisfy the package.json dependency
