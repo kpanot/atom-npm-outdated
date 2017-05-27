@@ -1,3 +1,7 @@
+## 0.11.5 - Bugfix
+*   Fix unfound pqckqge messqge to Linter2 format
+*   Disable the installed package version check per defalt
+
 ## 0.11.3 - Add config to disable node_modules packages version checking
 
 ## 0.11.2 - Bugfix
