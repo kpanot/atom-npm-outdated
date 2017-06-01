@@ -20,6 +20,9 @@
     "node-fetch": "^1.7.0",
     "semver": "^5.3.0"
   },
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  },
   "activationHooks": [
     "language-json:grammar-used"
   ],
@@ -60,8 +63,5 @@
       }
     }
   },
-  "license": "MIT",
-  "devDependencies": {
-    "eslint": "^3.19.0"
-  }
+  "license": "MIT"
 }

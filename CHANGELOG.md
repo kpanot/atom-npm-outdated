@@ -1,8 +1,11 @@
-## 0.11.5 - Bugfix
-*   Fix unfound pqckqge messqge to Linter2 format
-*   Disable the installed package version check per defalt
+## 0.12.0 - Install NPM package
+*   Add the feature to install or update a dependency package
 
-## 0.11.3 - Add config to disable node_modules packages version checking
+## 0.11.5 - Bugfix
+*   Fix unfound package message to Linter2 format
+*   Disable the installed package version check per default
+
+## 0.11.3 - Add configuration to disable node_modules packages version checking
 
 ## 0.11.2 - Bugfix
 *   Fix node-fetch version
