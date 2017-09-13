@@ -1,3 +1,6 @@
+## 0.12.1 - Bugfix
+*   Fix issue #2 relative to non semver version checking
+
 ## 0.12.0 - Install NPM package
 *   Add the feature to install or update a dependency package
 
