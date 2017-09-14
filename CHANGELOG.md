@@ -1,3 +1,6 @@
+## 0.13.0 - Private registry support
+*   Feature #3, the scope specific registries are now supported in `.npmrc`
+
 ## 0.12.1 - Bugfix
 *   Fix issue #2 relative to non semver version checking
 
