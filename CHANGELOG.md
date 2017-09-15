@@ -1,3 +1,6 @@
+## 0.13.1 - Reduce npmrc file read acces number
+*   Reduced npmrc file read to optimize first package.json file opening duration
+
 ## 0.13.0 - Private registry support
 *   Feature #3, the scope specific registries are now supported in `.npmrc`
 
