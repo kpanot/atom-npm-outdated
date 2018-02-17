@@ -1,3 +1,5 @@
+## 0.13.2 - Fix issue on the http urls
+
 ## 0.13.1 - Reduce npmrc file read acces number
 *   Reduced npmrc file read to optimize first package.json file opening duration
 
