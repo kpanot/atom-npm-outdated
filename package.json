@@ -1,7 +1,7 @@
 {
   "name": "atom-npm-outdated",
   "main": "./lib/index",
-  "version": "0.13.1",
+  "version": "0.13.2",
   "description": "Everything you need to keep your package.json up-to-date",
   "scripts": {
     "test": "eslint **/*.js"
