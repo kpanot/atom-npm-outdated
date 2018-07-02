@@ -1,3 +1,6 @@
+## 0.14.0 - Use NPM view to get package information
+*   Added option to specify NPM client
+
 ## 0.13.3 - Fix issue for the package without stable version
 
 ## 0.13.2 - Fix issue on the http urls
