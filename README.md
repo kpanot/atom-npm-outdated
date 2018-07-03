@@ -24,11 +24,14 @@ And will auto-complete your packages version.
 *   **Display information**:
 determine if you want to see an information message to the packages with the semver including the latest version but that also allow older version.
 
-*   **npmrc file**:
-specify the default path to the .npmrc file (if your project includes one)
+*   **NPM Client**:
+specify which NPM client to use (`npm` or `yarn`)
 
 *   **level**:
 restrict warning message (and suggestion) to a specific prerelease version level
 
 *   **Check installed package version**:
 The installed package will be inspected to verify that the version satisfy the package.json dependency
+
+*   **Cache Refresh Frequency**
+Specify the life time of the package cache

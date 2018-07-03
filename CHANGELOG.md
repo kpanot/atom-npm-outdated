@@ -1,3 +1,8 @@
+## 0.15.0 - Optimize performance with cache
+*   Added Option to specify cache refresh frequency
+*   Added command to clean cache
+*   Fixed linter reporting issue #8 (thanks to @jsg2021)
+
 ## 0.14.0 - Use NPM view to get package information
 *   Added option to specify NPM client
 
