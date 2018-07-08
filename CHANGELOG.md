@@ -1,3 +1,5 @@
+## 0.16.0 - Reduce number of request in parallel
+
 ## 0.15.0 - Optimize performance with cache
 *   Added Option to specify cache refresh frequency
 *   Added command to clean cache
