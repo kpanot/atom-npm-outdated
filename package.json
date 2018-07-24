@@ -1,7 +1,7 @@
 {
   "name": "atom-npm-outdated",
   "main": "./lib/index",
-  "version": "0.16.0",
+  "version": "0.17.0",
   "description": "Everything you need to keep your package.json up-to-date",
   "scripts": {
     "test": "eslint **/*.js"
@@ -23,7 +23,9 @@
   "devDependencies": {
     "eslint": "^5.0.1"
   },
-  "activationHooks": ["language-json:grammar-used"],
+  "activationHooks": [
+    "language-json:grammar-used"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/kilian-ito/atom-npm-outdated.git"
@@ -41,7 +43,9 @@
   "bugs": {
     "url": "https://github.com/kilian-ito/atom-npm-outdated/issues"
   },
-  "package-deps": ["linter"],
+  "package-deps": [
+    "linter"
+  ],
   "consumedServices": {
     "linter-indie": {
       "versions": {
