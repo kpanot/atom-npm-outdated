@@ -1,3 +1,6 @@
+## 0.17.0 - Share cache between Atom instances
+*   Package version refresh is now asynchronous and will be done after a quick display
+
 ## 0.16.0 - Reduce number of request in parallel
 
 ## 0.15.0 - Optimize performance with cache

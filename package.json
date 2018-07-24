@@ -42,12 +42,14 @@
     "url": "https://github.com/kilian-ito/atom-npm-outdated/issues"
   },
   "package-deps": ["linter"],
-  "providedServices": {
-    "linter": {
+  "consumedServices": {
+    "linter-indie": {
       "versions": {
-        "2.0.0": "provideLinter"
+        "2.0.0": "consumeIndie"
       }
-    },
+    }
+  },
+  "providedServices": {
     "autocomplete.provider": {
       "versions": {
         "2.0.0": "getProvider"
