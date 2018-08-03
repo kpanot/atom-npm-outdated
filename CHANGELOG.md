@@ -1,3 +1,6 @@
+## 0.18.0 - Progressive reporting
+*   The information on the package can now be displayed as soon as received
+
 ## 0.17.0 - Share cache between Atom instances
 *   Package version refresh is now asynchronous and will be done after a quick display
 
