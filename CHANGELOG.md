@@ -1,3 +1,5 @@
+## 0.18.1 - Fix unhandled error during JSON parsing (thanks to @UziTech)
+
 ## 0.18.0 - Progressive reporting
 *   The information on the package can now be displayed as soon as received
 
