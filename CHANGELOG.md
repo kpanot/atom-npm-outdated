@@ -1,3 +1,6 @@
+## 0.19.0 - Speed up suggestion display
+*   Remove cache when window close
+
 ## 0.18.1 - Fix unhandled error during JSON parsing (thanks to @UziTech)
 
 ## 0.18.0 - Progressive reporting
